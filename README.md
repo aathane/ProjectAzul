@@ -9,7 +9,5 @@ Dans le cas d'un problème de compilation ne pas oublier d'ajouter le dossier re
 
 Un fichier .jar se situe également dans le dossier classes, il permet d'exécuter le projet sans utiliser d'IDE. 
 
-Les règles du jeu sont disponible dans le rapport joint.
-
-La vidéo de présentation de notre projet se situe à l'adresse suivante :
-https://www.youtube.com/watch?v=g5oMNiokfZM&feature=youtu.be
+Les règles du jeu sont disponible dans le rapport ci dessous.
+https://drive.google.com/file/d/1dQ7wCBupHlJdsKRfPReZNUuSpuAkDa8n/view?usp=sharing
